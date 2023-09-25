@@ -15,18 +15,15 @@
             name = "Dean"; //assigment
             string lastName = "Lemans";
 
-            //character variable
-            char warning = '!';
+            char warning = '!'; //character variable
 
-            //intinger variable
-            int age = 16;
+            int age = 16;   //intinger variable
 
-            //float varialbe
-            float pi = 3.14159265359f;
+            float pi = 3.14159265359f;  //float point variable
 
-            //double simplisticPi = 3.141; 
+            //double simplisticPi = 3.141;  //double varialbe
 
-            bool lovesDogs = true;
+            bool lovesDogs = true;  //boolean variable
 
             #endregion
 
