@@ -34,13 +34,8 @@ namespace MyFirstProjectDean
             string expectedName = "bob";
             string expectedAnswerDog = "yes";
 
-            //variable console write test
-            //Console.Write(name);
-            //Console.WriteLine(lastName);
-            //Console.WriteLine(age); 
-            //Console.WriteLine(pi);
-            //Console.WriteLine(warning);
-            //Console.WriteLine(lovesDogs);
+            string amoreInput;
+            string amoreExpected = "that is amore";
 
             //simple command
             Console.WriteLine("Hello my name is " + name + lastName);
@@ -64,36 +59,37 @@ namespace MyFirstProjectDean
             //    Console.WriteLine("What in the fuck are you doing here?");
 
 
-            Console.WriteLine("do you like dogs?");
-            if (userInputAnswerDog == expectedAnswerDog)
-            {
-                Console.WriteLine("It is a good thing that you like dogs");
-            }
-            else
-            {
-                Console.WriteLine("Kill yourself");
-            }
-
             // small login system
             // name, lastname and password based
 
-            Console.Write("Give me your fucking name: ");
-            userInputName = Console.ReadLine();
+            //Console.Write("Give me your fucking name: ");
+            //userInputName = Console.ReadLine();
 
-            Console.Write("Enter the fucking password: ");
-            userInputPassword = Console.ReadLine();
+            //Console.Write("Enter the fucking password: ");
+            //userInputPassword = Console.ReadLine();
 
-            if (userInputName == expectedName && userInputPassword == expectedPassword)
+            //if (userInputName == expectedName && userInputPassword == expectedPassword)
+            //{
+            //    Console.WriteLine("hello user, how are you doing");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Kill yourself");
+            //}
+
+            //weird fucking assignment
+            Console.Write("is it true that when the moon hits your eyes that's it like a big pizza pie that's amore? ");
+            amoreInput = Console.ReadLine();
+
+            if (amoreInput == amoreExpected)
             {
-                Console.WriteLine("hello user, how are you doing");
+                Console.WriteLine("the weird fucking assigment is finished; LETS FUCKING GOOOOO");
             }
             else
             {
                 Console.WriteLine("Kill yourself");
             }
 
-
-        
 
         }
     }
