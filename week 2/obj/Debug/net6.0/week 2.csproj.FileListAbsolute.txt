@@ -1,0 +1,14 @@
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\week 2\bin\Debug\net6.0\week 2.exe
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\week 2\bin\Debug\net6.0\week 2.deps.json
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\week 2\bin\Debug\net6.0\week 2.runtimeconfig.json
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\week 2\bin\Debug\net6.0\week 2.dll
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\week 2\bin\Debug\net6.0\week 2.pdb
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\week 2\obj\Debug\net6.0\week 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\week 2\obj\Debug\net6.0\week 2.AssemblyInfoInputs.cache
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\week 2\obj\Debug\net6.0\week 2.AssemblyInfo.cs
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\week 2\obj\Debug\net6.0\week 2.csproj.CoreCompileInputs.cache
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\week 2\obj\Debug\net6.0\week 2.dll
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\week 2\obj\Debug\net6.0\refint\week 2.dll
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\week 2\obj\Debug\net6.0\week 2.pdb
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\week 2\obj\Debug\net6.0\week 2.genruntimeconfig.cache
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\week 2\obj\Debug\net6.0\ref\week 2.dll

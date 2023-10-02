@@ -12,7 +12,7 @@ namespace MyFirstProjectDean
         #endregion
         static void Main(string[] args)
         {
-            // string variable!
+            // string variable examples
             string name; //declaration
             name = "Dean"; //assigment
             string lastName = "Lemans"; //DAfusion

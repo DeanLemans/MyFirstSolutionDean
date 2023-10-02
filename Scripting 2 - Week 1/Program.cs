@@ -1,4 +1,6 @@
-﻿namespace Scripting_2
+﻿using System.Runtime.InteropServices;
+
+namespace Scripting_2___week_1
 {
     internal class Program
     {
@@ -31,63 +33,14 @@
             string expectedPassword = "cheese";
             string expectedName = "bob";
             string expectedAnswerDog = "yes";
+         
 
-            string amoreInput;
-            string amoreExpected = "that is amore";
-
-            //simple command
+            //simple command test n shit
             Console.WriteLine("Hello my name is " + name + lastName);
             Console.WriteLine($"I am {age} years old");
             Console.Write("Great wizzard in the sky, is it true that i love dogs? ");
             Console.WriteLine("It is {0} young seeker of knowledge.", lovesDogs);
             Console.WriteLine(); //whitespace
-
-            //user input
-            //Console.Write("Enter name or shall kill you: ");
-            //userInputName = Console.ReadLine();
-
-            //Console.WriteLine($"Name of user: {name}");
-
-
-            //Console.Write("Now enter your age or i shall kill you: ");
-            //userInputAge = Console.ReadLine();
-
-            //Console.WriteLine($"Age of user: {age}");
-            //if (userInputAge < 15) ;
-            //    Console.WriteLine("What in the fuck are you doing here?");
-
-
-            // small login system
-            // name, lastname and password based
-
-            //Console.Write("Give me your fucking name: ");
-            //userInputName = Console.ReadLine();
-
-            //Console.Write("Enter the fucking password: ");
-            //userInputPassword = Console.ReadLine();
-
-            //if (userInputName == expectedName && userInputPassword == expectedPassword)
-            //{
-            //    Console.WriteLine("hello user, how are you doing");
-            //}
-            //else
-            //{
-            //    Console.WriteLine("Kill yourself");
-            //}
-
-            //weird fucking assignment
-            Console.Write("is it true that when the moon hits your eyes that it's like a big pizza pie that's amore? ");
-            amoreInput = Console.ReadLine();
-
-            if (amoreInput == amoreExpected)
-            {
-                Console.WriteLine("the weird fucking assigment is finished; LETS FUCKING GOOOOO");
-            }
-            else
-            {
-                Console.WriteLine("not amore aproved");
-            }
-
 
         }
     }

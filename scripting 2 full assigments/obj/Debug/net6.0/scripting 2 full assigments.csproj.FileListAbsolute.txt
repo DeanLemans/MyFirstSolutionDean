@@ -1,0 +1,14 @@
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\scripting 2 full assigments\obj\Debug\net6.0\scripting 2 full assigments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\scripting 2 full assigments\obj\Debug\net6.0\scripting 2 full assigments.AssemblyInfoInputs.cache
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\scripting 2 full assigments\obj\Debug\net6.0\scripting 2 full assigments.AssemblyInfo.cs
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\scripting 2 full assigments\obj\Debug\net6.0\scripting 2 full assigments.csproj.CoreCompileInputs.cache
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\scripting 2 full assigments\bin\Debug\net6.0\scripting 2 full assigments.exe
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\scripting 2 full assigments\bin\Debug\net6.0\scripting 2 full assigments.deps.json
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\scripting 2 full assigments\bin\Debug\net6.0\scripting 2 full assigments.runtimeconfig.json
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\scripting 2 full assigments\bin\Debug\net6.0\scripting 2 full assigments.dll
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\scripting 2 full assigments\bin\Debug\net6.0\scripting 2 full assigments.pdb
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\scripting 2 full assigments\obj\Debug\net6.0\scripting 2 full assigments.dll
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\scripting 2 full assigments\obj\Debug\net6.0\refint\scripting 2 full assigments.dll
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\scripting 2 full assigments\obj\Debug\net6.0\scripting 2 full assigments.pdb
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\scripting 2 full assigments\obj\Debug\net6.0\scripting 2 full assigments.genruntimeconfig.cache
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\scripting 2 full assigments\obj\Debug\net6.0\ref\scripting 2 full assigments.dll
