@@ -78,7 +78,7 @@ namespace MyFirstProjectDean
             //}
 
             //weird fucking assignment
-            Console.Write("is it true that when the moon hits your eyes that's it like a big pizza pie that's amore? ");
+            Console.Write("is it true that when the moon hits your eyes that it's like a big pizza pie that's amore? ");
             amoreInput = Console.ReadLine();
 
             if (amoreInput == amoreExpected)
@@ -87,7 +87,7 @@ namespace MyFirstProjectDean
             }
             else
             {
-                Console.WriteLine("Kill yourself");
+                Console.WriteLine("not amore aproved");
             }
 
 
