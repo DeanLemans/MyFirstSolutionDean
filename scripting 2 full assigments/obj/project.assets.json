@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dean\\OneDrive - SintLucas\\Software Development\\Repos\\MyFirstSolutionDean\\scripting 2 full assigments\\scripting 2 full assigments.csproj",
-      "projectName": "scripting 2 full assigments",
-      "projectPath": "C:\\Users\\Dean\\OneDrive - SintLucas\\Software Development\\Repos\\MyFirstSolutionDean\\scripting 2 full assigments\\scripting 2 full assigments.csproj",
+      "projectUniqueName": "C:\\Users\\Dean\\OneDrive - SintLucas\\Software Development\\Repos\\MyFirstSolutionDean\\scripting 2 full assigments\\scripting 2 exercises.csproj",
+      "projectName": "scripting 2 exercises",
+      "projectPath": "C:\\Users\\Dean\\OneDrive - SintLucas\\Software Development\\Repos\\MyFirstSolutionDean\\scripting 2 full assigments\\scripting 2 exercises.csproj",
       "packagesPath": "C:\\Users\\Dean\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Dean\\OneDrive - SintLucas\\Software Development\\Repos\\MyFirstSolutionDean\\scripting 2 full assigments\\obj\\",
       "projectStyle": "PackageReference",

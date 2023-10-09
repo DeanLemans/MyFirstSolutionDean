@@ -8,18 +8,17 @@
     #endregion
     static void Main(string[] args)
     {
-        string amoreInput;
-        string amoreExpected = "that is amore";
 
-        // variable for expected values
-        string expectedPassword = "cheese";
-        string expectedName = "bob";
-        
+        //variables
 
-        // user input variables
-        string userInputName;
-        string userInputPassword;
-        
+
+        //string amoreInput;
+        //string amoreExpected = "that is amore";
+        //string expectedPassword = "cheese";
+        //string expectedName = "bob";
+        //string userInputName;
+        //string userInputPassword;
+
 
         //weird fucking amore fucking (not litteraly) assignment.
         //Console.Write("is it true that when the moon hits your eyes that it's like a big pizza pie that's amore? ");
@@ -33,7 +32,6 @@
         //{
         //    Console.WriteLine("not amore aproved");
         //}
-
 
 
 
@@ -57,28 +55,56 @@
 
 
 
-        string userAge;
-        string expectedAge = "70";
-        int minimumAge = 2;
+        //minimum age exersise
+        //string userAge;
+        //string expectedAge = "70";
+        //int minimumAge = 2;
+
+        //Console.Write("how old are you?");
+        //userAge = Console.ReadLine();
+
+        //int age  = int.Parse(userAge);
+        //int eAge = int.Parse(expectedAge);
+
+        //if (age < eAge)
+        //{
+        //    Console.WriteLine("minimum age not reached; i will now kill you");
+        //}
+        //else        {
+        //    Console.WriteLine("minimum reached");
+        //}
 
 
 
-        Console.Write("how old are you?");
-        userAge = Console.ReadLine();
+        //choice menu exersice
+        string input;
 
-        int age  = int.Parse(userAge);
-        int eAge = int.Parse(expectedAge);
 
-        if (age < eAge)
+        void ChoiceMenu()
         {
-            Console.WriteLine("minimum age not reached; i will now kill you");
+            if (input == "Choolate")
+            {
+                Console.WriteLine("Chocolate flavoured snack");
+            }
+            else if (input == "Hotdog")
+            {
+                Console.WriteLine("Hotdog flavoured snack");
+                //SubtractNumber();
+            }
+            else if (input == "Frog")
+            {
+                Console.WriteLine("Frog flavoured snack");
+            }
+            else if (input == "Hippo")
+            {
+                Console.WriteLine("Hippo flavoured snack");
+            }
+            else
+            {
+                Console.WriteLine("That was not one of the given imputs");
+                Console.WriteLine("Ending the program because your bitch ass cant type correctly");
+            }
         }
-        else        {
-            Console.WriteLine("minimum reached");
-        }
-
-
-
 
 
 

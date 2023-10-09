@@ -13,7 +13,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scripting 2", "Scripting 2 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Scripting 3 - Week 1", "Scripting 3 - week 1\Scripting 3 - Week 1.csproj", "{F637D836-6FB8-419B-8F65-F75A108BD061}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "scripting 2 full assigments", "scripting 2 full assigments\scripting 2 full assigments.csproj", "{C1FC4ECF-A088-4386-9654-5E3EDC71EC95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "scripting 2 exercises", "scripting 2 full assigments\scripting 2 exercises.csproj", "{C1FC4ECF-A088-4386-9654-5E3EDC71EC95}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "week 2", "week 2\week 2.csproj", "{A0775C90-4679-4ED1-A42C-67B4149B4A0F}"
 EndProject
