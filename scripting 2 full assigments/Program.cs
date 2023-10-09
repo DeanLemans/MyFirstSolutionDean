@@ -22,17 +22,17 @@
         
 
         //weird fucking amore fucking (not litteraly) assignment.
-        Console.Write("is it true that when the moon hits your eyes that it's like a big pizza pie that's amore? ");
-        amoreInput = Console.ReadLine();
+        //Console.Write("is it true that when the moon hits your eyes that it's like a big pizza pie that's amore? ");
+        //amoreInput = Console.ReadLine();
 
-        if (amoreInput == amoreExpected)
-        {
-            Console.WriteLine("the weird fucking assigment is finished; LETS FUCKING GOOOOO");
-        }
-        else
-        {
-            Console.WriteLine("not amore aproved");
-        }
+        //if (amoreInput == amoreExpected)
+        //{
+        //    Console.WriteLine("the weird fucking assigment is finished; LETS FUCKING GOOOOO");
+        //}
+        //else
+        //{
+        //    Console.WriteLine("not amore aproved");
+        //}
 
 
 
@@ -58,7 +58,7 @@
 
 
         string userAge;
-        
+        string expectedAge = "70";
         int minimumAge = 2;
 
 
@@ -67,15 +67,14 @@
         userAge = Console.ReadLine();
 
         int age  = int.Parse(userAge);
+        int eAge = int.Parse(expectedAge);
 
-
-        if (minimumAge > age)
+        if (age < eAge)
         {
             Console.WriteLine("minimum age not reached; i will now kill you");
         }
-        else if (minimumAge > age) 
-        {
-            Console.WriteLine("minimum rached");
+        else        {
+            Console.WriteLine("minimum reached");
         }
 
 
