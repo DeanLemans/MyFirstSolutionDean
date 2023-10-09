@@ -21,22 +21,31 @@
         input = Console.ReadLine();
         Console.WriteLine();
 
-
-        if (input == "Adding") 
+        void ChoiceMenu()
         {
-            Console.WriteLine("currently Adding");
-        }
-        else if (input == "Subtracting") 
-        {
-            Console.WriteLine("currently Subtracting");
-        }
-        else if (input == "Dividing")
-        {
-            Console.WriteLine("currently Dividing");
-        }
-        else if (input == "Multiplying")
-        {
-            Console.WriteLine("currently Multiplying");
+            if (input == "Adding")
+            {
+                Console.WriteLine("currently Adding");
+                AddNumber();
+            }
+            else if (input == "Subtracting")
+            {
+                Console.WriteLine("currently Subtracting");
+                SubtractNumber();
+            }
+            else if (input == "Dividing")
+            {
+                Console.WriteLine("currently Dividing");
+            }
+            else if (input == "Multiplying")
+            {
+                Console.WriteLine("currently Multiplying");
+            }
+            else
+            {
+                Console.WriteLine("That was not one of the given imput");
+                Console.WriteLine("Ending the program because you bitch ass cant type correctly");
+            }
         }
 
         //run
