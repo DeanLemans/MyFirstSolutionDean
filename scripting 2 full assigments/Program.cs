@@ -77,27 +77,38 @@
 
 
         //choice menu exersice
+
         string input;
 
+        Console.WriteLine("you can choose one of the following snacks: ");
+        Console.WriteLine("    - Chocolate");
+        Console.WriteLine("    - Hotdog");
+        Console.WriteLine("    - Frog");
+        Console.WriteLine("    - Hippo");
+        Console.WriteLine("so what do you want to do?");
+        input = Console.ReadLine();
+        Console.WriteLine();
+
+        ChoiceMenu();
 
         void ChoiceMenu()
         {
-            if (input == "Choolate")
+            if (input == "Chocolate")
             {
-                Console.WriteLine("Chocolate flavoured snack");
+                Console.WriteLine("you have chosen Chocolate flavoured snack");
             }
             else if (input == "Hotdog")
             {
-                Console.WriteLine("Hotdog flavoured snack");
+                Console.WriteLine("you have chosen Hotdog flavoured snack");
                 //SubtractNumber();
             }
             else if (input == "Frog")
             {
-                Console.WriteLine("Frog flavoured snack");
+                Console.WriteLine("you have chosen Frog flavoured snack");
             }
             else if (input == "Hippo")
             {
-                Console.WriteLine("Hippo flavoured snack");
+                Console.WriteLine("you have chosen Hippo flavoured snack");
             }
             else
             {
@@ -106,8 +117,19 @@
             }
         }
 
+        int num = 10;
+        int anotherNum = 0;
 
+        void AddsFive() 
+        {
+            num =+ 5;
+            Console.WriteLine("+ five");
+        }
 
+        void AddsOneMoreEveryTime() 
+        {
+        
+        }
 
 
     }
