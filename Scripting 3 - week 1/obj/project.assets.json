@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dean\\OneDrive - SintLucas\\Software Development\\Repos\\MyFirstSolutionDean\\Scripting 3 - week 1\\Scripting 3 - week 1.csproj",
-      "projectName": "Scripting 3 - week 1",
-      "projectPath": "C:\\Users\\Dean\\OneDrive - SintLucas\\Software Development\\Repos\\MyFirstSolutionDean\\Scripting 3 - week 1\\Scripting 3 - week 1.csproj",
+      "projectUniqueName": "C:\\Users\\Dean\\OneDrive - SintLucas\\Software Development\\Repos\\MyFirstSolutionDean\\Scripting 3 - week 1\\Scripting 3 - Week 1.csproj",
+      "projectName": "Scripting 3 - Week 1",
+      "projectPath": "C:\\Users\\Dean\\OneDrive - SintLucas\\Software Development\\Repos\\MyFirstSolutionDean\\Scripting 3 - week 1\\Scripting 3 - Week 1.csproj",
       "packagesPath": "C:\\Users\\Dean\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Dean\\OneDrive - SintLucas\\Software Development\\Repos\\MyFirstSolutionDean\\Scripting 3 - week 1\\obj\\",
       "projectStyle": "PackageReference",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
