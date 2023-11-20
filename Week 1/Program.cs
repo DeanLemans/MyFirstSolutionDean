@@ -7,52 +7,43 @@ internal class Program
     {
 
 
-        int roll1;
-        int roll2;
-        Random rnd = new Random();
+        //int roll1;
+        //int roll2;
+        //Random rnd = new Random();
         
-        RollDie();
-        RollDie();
-        RollDie();
-        RollDie();
 
-        void RollDie()
-        {
-            roll1 = rnd.Next(1, 21);
-            roll2 = rnd.Next(1, 21);
-            Console.WriteLine($"Player 1 rolled: {roll1}");
-            Console.WriteLine($"Player 2 rolled: {roll2}");
-            Console.WriteLine("");
-            if ( roll1 > roll2 ) 
-            {
-                Console.WriteLine("Player 1 won");
-                Console.WriteLine("");
-                Console.WriteLine("");
-            }
-            else if ( roll1 < roll2 ) 
-            {
-                Console.WriteLine("Player 2 won");
-                Console.WriteLine("");
-                Console.WriteLine("");
-            }
-            else if (roll1 == roll2 ) 
-            {
-                Console.WriteLine("no one won");
-                Console.WriteLine("");
-                Console.WriteLine("");
-            }
-        }
+        //RollDie();
+        //RollDie();
+        //RollDie();
+        //RollDie();
 
-
-
-
-
-
-
-
-
-
-
+        //void RollDie()
+        //{
+        //    roll1 = rnd.Next(1, 21);
+        //    roll2 = rnd.Next(1, 21);
+        //    Console.WriteLine("You have rolled: " + roll1);
+        //    Console.WriteLine("You have rolled: " + roll2);
+        //    //Console.WriteLine($"Player 2 rolled: {roll2}");
+        //    Console.WriteLine("");
+        //    if ( roll1 > roll2 ) 
+        //    {
+        //        Console.WriteLine("Player 1 won");
+        //        Console.WriteLine("");
+        //        Console.WriteLine("");
+        //    }
+        //    else if ( roll1 < roll2 ) 
+        //    {
+        //        Console.WriteLine("Player 2 won");
+        //        Console.WriteLine("");
+        //        Console.WriteLine("");
+        //    }
+        //    else if (roll1 == roll2 ) 
+        //    {
+        //        Console.WriteLine("no one won");
+        //        Console.WriteLine("");
+        //        Console.WriteLine("");
+        //    }
+        //}
 
 
 

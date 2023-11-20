@@ -12,3 +12,4 @@ C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDea
 C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\Week 1\obj\Debug\net6.0\Week 1.pdb
 C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\Week 1\obj\Debug\net6.0\Week 1.genruntimeconfig.cache
 C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\Week 1\obj\Debug\net6.0\ref\Week 1.dll
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\Week 1\obj\Debug\net6.0\Week 1.sourcelink.json
