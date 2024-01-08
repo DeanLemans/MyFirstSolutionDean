@@ -1,0 +1,15 @@
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\scriping 4\bin\Debug\net8.0\scriping 4.exe
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\scriping 4\bin\Debug\net8.0\scriping 4.deps.json
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\scriping 4\bin\Debug\net8.0\scriping 4.runtimeconfig.json
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\scriping 4\bin\Debug\net8.0\scriping 4.dll
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\scriping 4\bin\Debug\net8.0\scriping 4.pdb
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\scriping 4\obj\Debug\net8.0\scriping 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\scriping 4\obj\Debug\net8.0\scriping 4.AssemblyInfoInputs.cache
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\scriping 4\obj\Debug\net8.0\scriping 4.AssemblyInfo.cs
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\scriping 4\obj\Debug\net8.0\scriping 4.csproj.CoreCompileInputs.cache
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\scriping 4\obj\Debug\net8.0\scriping 4.sourcelink.json
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\scriping 4\obj\Debug\net8.0\scriping 4.dll
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\scriping 4\obj\Debug\net8.0\refint\scriping 4.dll
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\scriping 4\obj\Debug\net8.0\scriping 4.pdb
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\scriping 4\obj\Debug\net8.0\scriping 4.genruntimeconfig.cache
+C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\scriping 4\obj\Debug\net8.0\ref\scriping 4.dll
