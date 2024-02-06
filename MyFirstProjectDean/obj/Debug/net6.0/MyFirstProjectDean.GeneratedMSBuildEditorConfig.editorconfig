@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MyFirstProjectDean
-build_property.ProjectDir = C:\Users\Dean\OneDrive - SintLucas\Software Development\Repos\MyFirstSolutionDean\MyFirstProjectDean\
+build_property.ProjectDir = C:\Users\Dean\MyFirstSolutionDean\MyFirstProjectDean\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

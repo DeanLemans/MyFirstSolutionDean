@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dean\\OneDrive - SintLucas\\Software Development\\Repos\\MyFirstSolutionDean\\week 3\\week 3.csproj": {}
+    "C:\\Users\\Dean\\MyFirstSolutionDean\\week 3\\week 3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dean\\OneDrive - SintLucas\\Software Development\\Repos\\MyFirstSolutionDean\\week 3\\week 3.csproj": {
+    "C:\\Users\\Dean\\MyFirstSolutionDean\\week 3\\week 3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dean\\OneDrive - SintLucas\\Software Development\\Repos\\MyFirstSolutionDean\\week 3\\week 3.csproj",
+        "projectUniqueName": "C:\\Users\\Dean\\MyFirstSolutionDean\\week 3\\week 3.csproj",
         "projectName": "week 3",
-        "projectPath": "C:\\Users\\Dean\\OneDrive - SintLucas\\Software Development\\Repos\\MyFirstSolutionDean\\week 3\\week 3.csproj",
+        "projectPath": "C:\\Users\\Dean\\MyFirstSolutionDean\\week 3\\week 3.csproj",
         "packagesPath": "C:\\Users\\Dean\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dean\\OneDrive - SintLucas\\Software Development\\Repos\\MyFirstSolutionDean\\week 3\\obj\\",
+        "outputPath": "C:\\Users\\Dean\\MyFirstSolutionDean\\week 3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dean\\AppData\\Roaming\\NuGet\\NuGet.Config",

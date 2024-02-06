@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dean\\OneDrive - SintLucas\\Software Development\\Repos\\MyFirstSolutionDean\\Scripting 2 - Week 1\\Scripting 2.csproj",
+      "projectUniqueName": "C:\\Users\\Dean\\MyFirstSolutionDean\\Scripting 2 - Week 1\\Scripting 2.csproj",
       "projectName": "Scripting 2",
-      "projectPath": "C:\\Users\\Dean\\OneDrive - SintLucas\\Software Development\\Repos\\MyFirstSolutionDean\\Scripting 2 - Week 1\\Scripting 2.csproj",
+      "projectPath": "C:\\Users\\Dean\\MyFirstSolutionDean\\Scripting 2 - Week 1\\Scripting 2.csproj",
       "packagesPath": "C:\\Users\\Dean\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dean\\OneDrive - SintLucas\\Software Development\\Repos\\MyFirstSolutionDean\\Scripting 2 - Week 1\\obj\\",
+      "outputPath": "C:\\Users\\Dean\\MyFirstSolutionDean\\Scripting 2 - Week 1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dean\\AppData\\Roaming\\NuGet\\NuGet.Config",
